@@ -5,3 +5,7 @@ ACCESS_TOKEN = 'YOUR_ACCESS_TOKEN'
 ACCESS_SECRET = 'YOUR_ACCESS_SECRET'
 CONSUMER_KEY = 'YOUR_CONSUMER_KEY'
 CONSUMER_SECRET = 'YOUR_CONSUMER_SECRET'
+
+This is a screenshot of partial results:
+
+![Screenshot](./ds2.PNG?raw=true "Title")
